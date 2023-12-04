@@ -6,9 +6,9 @@ import CoreFeatureThumb from "assets/LLMChain.png";
 
 const data = {
   subTitle: "",
-  title: "Simple Chatbot",
+  title: "Chatbot for Academia",
   description:
-    "Basic example of Large Language Model chatbot with a Template and State-of-the-art AI Model just for your business",
+    "Revolutionize academic engagement with our intelligent chatbot – your virtual companion for seamless learning and support",
 };
 
 export default function CoreFeature0() {

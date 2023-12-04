@@ -6,9 +6,9 @@ import CoreFeatureThumb2 from "assets/ConversationalAgent.png";
 
 const data = {
   subTitle: "",
-  title: "Conversational AI Agent with Memory",
+  title: "Chatbot for DevOps",
   description:
-    "Conversational agent for a chat model which utilize chat specific prompts and buffer memory in order to analyze your given and boost your sales",
+    "Transform your DevOps experience with a chatbot that streamlines communication, troubleshoots in real-time, and accelerates your workflow",
   features: [],
 };
 

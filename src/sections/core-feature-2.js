@@ -6,9 +6,9 @@ import CoreFeatureThumb from "assets/translator.png";
 
 const data = {
   subTitle: "",
-  title: "Language Translation Chatbot",
+  title: "Chatbot for Healthcare",
   description:
-    "Language translation chatbot using Large Language Model with a Chat Prompt Template and AI Chat Model for translation any language",
+    "Your health companion, our chatbot – delivering personalized support and information, 24/7.",
 };
 
 export default function CoreFeature2() {

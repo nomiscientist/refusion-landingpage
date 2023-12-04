@@ -57,7 +57,7 @@ export default function Banner() {
             Build Chatbots Easily
           </Heading>
           <Text as="p" variant="heroSecondary">
-          Chatbot UI visual tool to build your customized chatbots using state-of-the-art AI tools
+          Elevate your chatbot with data-driven empathy – where understanding meets emotions in every interaction.
           </Text>
           <Flex>
             <Button

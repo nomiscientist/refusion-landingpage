@@ -36,7 +36,13 @@ export default function WorkFlow() {
       <Container>
         <SectionHeader
           slogan=""
-          title="Let’s see how it works"
+          title="White Label your Chatbots"
+          isWhite={true}
+        />
+
+        <SectionHeader
+          slogan=""
+          title="Expand your revenue streams in conversational marketing by leveraging RefusionAI's white label business opportunities to diversify your product offerings."
           isWhite={true}
         />
 
@@ -46,6 +52,8 @@ export default function WorkFlow() {
           controls="controls"
           autoplay="true"
         /> */}
+
+
       </Container>
     </section>
   );

@@ -44,7 +44,7 @@ export default function Header({ className }) {
             onClick={handleOpenAppClick}
           >
             {/* <FaGithub /> */}
-            Get Started
+            Get Demo
           </Button>
 
           <MobileDrawer />

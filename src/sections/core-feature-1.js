@@ -9,8 +9,8 @@ import Secure from "assets/core-feature/secure.svg";
 
 const data = {
   subTitle: "",
-  title: "Question Answer Retrieval Chatbot",
-  description: "Data gather QnA chatbot using conversational retrieval QA chain for answering any kind of query your customers have about your business",
+  title: "Chatbot for your Archive Data",
+  description: "Transform your data conversations with our intuitive chatbot, simplifying complex insights into friendly dialogues.",
   features: [],
 };
 

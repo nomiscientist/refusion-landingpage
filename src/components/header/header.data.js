@@ -9,11 +9,11 @@ export default [
   },
   {
     path: "feature",
-    label: "Examples",
+    label: "Use Cases",
   },
   {
     path: "howitworks",
-    label: "How It Works",
+    label: "White Label",
   },
   {
     path: "faq",
