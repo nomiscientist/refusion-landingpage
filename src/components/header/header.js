@@ -13,7 +13,7 @@ import { FaGithub } from "react-icons/fa";
 export default function Header({ className }) {
   const handleOpenAppClick = (e) => {
     e.preventDefault();
-    window.open("http://localhost:5000/login", "_blank");
+    window.open("http://54.183.178.68:3000/login", "_blank");
     // window.open("http", "_blank");
   };
   return (
