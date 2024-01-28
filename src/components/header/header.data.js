@@ -12,6 +12,14 @@ export default [
     label: "Use Cases",
   },
   {
+    path: "tutorials",
+    label: "Tutorials",
+  },
+  {
+    path: "blog",
+    label: "Blog",
+  },
+  {
     path: "howitworks",
     label: "White Label",
   },
